@@ -1,3 +1,3 @@
 # MalhaViaria
 
-Trabalho proposto para a disciplina de Desenvolvimento de sistema distribuídos de paralelos
+Trabalho proposto para a disciplina de Desenvolvimento de sistemas distribuídos de paralelos.
