@@ -1,5 +1,7 @@
 
-package br.udesc.dsd.model;
+package br.udesc.dsd.model.casa;
+
+import br.udesc.dsd.model.carro.ICarro;
 
 /**
  *

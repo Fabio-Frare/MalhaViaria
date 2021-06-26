@@ -1,5 +1,6 @@
-package br.udesc.dsd.model;
+package br.udesc.dsd.model.casa;
 
+import br.udesc.dsd.model.carro.ICarro;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
